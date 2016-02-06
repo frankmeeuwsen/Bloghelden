@@ -1,0 +1,66 @@
+> Voorwoord
+
+Frank Meeuwsen heeft met Bloghelden een fantastische prestatie geleverd. Het geeft een compleet overzicht van tien jaar bloggen en het leest als een trein. Mooi geschreven, goed gedocumenteerd. En welk een schitterende illustraties! Het is verreweg het beste boek ooit geschreven over bloggen in Nederland. Bloghelden is h�t boek dat alle andere boeken over de geschiedenis van internettend Nederland overbodig maakt. Een instant klassieker. En daar is geen woord aan gelogen: niet alleen is dit het beste boek over bloggen, het is ook het enige boek.
+
+Waarmee dit voorwoord in ieder geval enigszins wervend is begonnen. Dat citeert lekker. Maar ook met droge ogen is al die loftuiting niet zomaar bij elkaar gelogen. Die veren, dat werven, dat applaus: terecht. Om tot deze publicatie te hebben kunnen komen moet er een schrikbarende hoeveelheid werk zijn verricht, moeten er bergen zijn verzet. Internetarcheologie, dat graaft niet lekker weg, dat doe je niet door zomaar een beetje naar vroeger te surfen. Linkrot maakt dat alles is verdwenen, tenzij gespiegeld bij archive.org, internetarchief voor al uw oude internetpagina's, vers vanaf 1995.
+
+Frank Meeuwsen heeft zich naast het doen van nijver bronnenonderzoek verdiept in de geschiedenis van internettend Nederland middels talloze interviews, via de mail en in het echt. Hij heeft de periode 1995-2005 belicht en bepoteld, aan het verschiet onttrokken. Incluis bijpassende truttigheid en onnozelarij, de Dutch Bloggies, weerkerend non-event van het jaar, de uitrol van de business blogosfeer, van Marketingfacts tot marketingblabber. Bloghelden is uiterst volledig.
+
+Het boek lezen is een feest der herkenning. Wat vergeten was of weggedrukt komt boven. De glans, de pracht, de kracht. De rans, de bagger, de zut� De experimenten, de groei, de bloei. Perk, Eendvogel, Oei. Wie is Jan de Vries? Zegt het u niets, dan was u er waarschijnlijk niet bij.
+
+Ik stond er middenin - althans in de beginperiode. Eerst als De Kolonel in Het Dagelijkse Nieuws, (1997-1999) en als JB in Alt0169 (1999-2001). Nu schrijf ik als Jeroen Bosch in het onvolprezen Trendbeheer, internettijdschrift over kunst en beeldcultuur. (2004-...) Trendbeheer is eerder een internettijdschrift dan een kunstlog, een weblog over beeldende kunst. Wie logt er nog, anno 2010? Wordt het woord bloggen nog gebruikt over tien jaar? Met Bloghelden is een periode geboekstaafd. Als breed uitwaaierend geschiedenisboek staat Bloghelden als een huis.
+
+(Wist u dat de eerste letters van de postjes van berichten in Alt0169 onder elkaar geplaatst zinnen vormden? Een een-tweetje van Ralph Oei en ondergetekende: in het geheim boodschappen. Subliminaal zeg maar. Niet lang als zodanig volgehouden, maar de eerste boodschap luidde: 'Wie dit leest is gek.'* Toe maar. Niemand die dat gelezen heeft.)
+
+Jeroen Bosch � Trendbeheer.com en voorheen Alt0169.com
+
+* http://alt0169.com/0124.shtml
+
+> Inleiding
+
+Een titel, link en tekst. Meer zou je niet nodig hebben om je verhaal te delen met anderen. Weblogs zijn dat in hun meest rudimentaire vorm. Soms kon je zelfs de titel en de link weglaten. Maar die drie elementen zijn de basiselementen die aan de voet hebben gestaan van een van de grootste communicatierevoluties die we hebben gekend. Natuurlijk bestaan weblogs bij de gratie van een nog grotere revolutie, het internet. Maar zonder weblogs hadden de ontwikkelingen wellicht een stuk langer geduurd. Uiteindelijk zou het web datgene worden waar Tim Berners-Lee van droomde:
+
+� [�] the idea of the Web as interaction between people is really what the Web is. That was what it was designed to be as a collaborative space where people can interact.�
+
+In 2008 was ik de medeorganisator van de Dutch Bloggies. Na de uitreiking stonden we met bloggers van toen en nu wat te drinken en te praten over de evolutie van dit medium. Blogs zijn nog steeds een belangrijk verschijnsel in het online uitgeven, maar hoe is dat zover gekomen? Hoe hebben we dat voor elkaar gekregen? Was er een vooropgezet plan of deden we maar wat? Waarom zijn blogs zo populair geworden en zijn ze niet meer weg te denken in het huidige medialandschap?
+
+Jesse James Garrett, maker van een van de eerste weblogportals, noemt weblogs 'Pirate radio stations of the web'. Een mooie benaming van het fenomeen. Het zijn persoonlijke platformen waar je als individu je mening kunt geven. Commentaar kunt geven op recente gebeurtenissen. Waar je je eigen stem kunt laten horen, ongecensureerd en ongefilterd.
+
+Een mooiere vergelijking vind ik die met de Wunderkammer, de voorloper van het museum.  Door ontdekkingsreizen in de 16e en 17e eeuw ontstonden nieuwe wetenschappelijke inzichten. Nog niet geordend, maar ons wereldbeeld werd steeds groter. We zagen nieuwe landen, nieuwe volkeren, nieuwe planten en dieren. De ontdekkingsreizigers, vaak een excentrieke heer van stand, legden in hun huizen enorme collecties aan van ogenschijnlijk willekeurige, vervreemde en bizarre objecten. De Wunderkammers toonden struisvogelveren, fossielen, botjes van een dodo en een gemummificeerde zeemeermin. De verzamelingen wisten feit en fictie goed met elkaar te mengen om zo een persoonlijke blik op de wereld te presenteren. Niet als wetenschap, maar als entertainment en om grip op de wereld te krijgen. Om een alomvattend wereldbeeld te scheppen. Het zou nog jaren duren voor de rariteitenkabinetten evolueerden in de gecurateerde musea die we nu kennen.
+
+De eerste bloggers probeerden eveneens grip te krijgen op die nieuwe online wereld die ze verkenden. Weblogs zijn de logboeken van het web, het artefact van een ontdekkingsreis naar het nieuwe en onbekende. De verzameling die de blogger presenteert aan zijn lezers geeft een kijkje in het hoofd van de blogger en het geeft richting: hier is het leuk, daar moet je kijken, dit is een boeiende website. Het formaat van een weblog en het technische chassis waar de weblog in hangt maakt het voor de eigenaar een vrijwel frictieloze exercitie om van gedachte naar publicatie te gaan. Zoals de ontdekkingsreizigers zonder tussenkomst van wetenschappers en �experts� hun ontdekkingen tentoonspreidden, zo publiceren bloggers hun schrijfsels zonder tussenkomst van een hoofdredacteur of redactiestatuten.
+
+Dit boek tracht de sfeer van de eerste jaren over te brengen. Inderdaad, we �deden maar wat� maar daar kwamen wel de weblogs uit voort. Waarom deden we dat dan? En hoe? De geschiedenis van een online fenomeen laat zich moeilijk vertellen zonder de originele verhalen en quotes. Online fenomenen moet je eigenlijk zo veel mogelijk online laten en niet proberen in een boek te vangen. Daarom is er Bloghelden.nl, de website. Waar meer materiaal is te vinden, waar ik probeer de geschiedenis van de Nederlandse weblogcultuur te vangen, te behouden en te benoemen. Waar iedereen is uitgenodigd om tijdens het lezen van dit boek zijn reacties en aanvullingen achter te laten. Er is een wiki, een website waar iedereen aanvullingen kan doen op het boek. Want dit boek is niet volledig. Het is een incomplete geschiedenis van de Nederlandse blogosfeer gebaseerd op interviews, online onderzoek en mijn eigen herinneringen. Volledigheid kun je betrachten maar is een utopie. De blogosfeer heeft zowel online als off-line zijn effecten gehad op vriendschappen, maatschappelijke gebeurtenissen, de za-kenwereld en de reguliere media. Dat moet je niet willen vangen in ��n boek. Dit boek legt niet in detail uit hoe je een weblog maakt of hoe je een succesvol web-log kunt maken. Tussen de regels door lees je wel welke successen de pioniers en ontdekkings-reizigers kregen en welke misstappen.
+
+Bloghelden eindigt rond 2005, 2006. De hoogtijdagen van weblogs in Nederland en de start van een nieuw tijdperk op internet. Er ontstaan nieuwe diensten die ons als consument faciliteren in de verschuiving naar producent. Door te lenen uit de mogelijkheden van weblogs en wat daar succesvol is, komen nieuwe successen. Web 2.0 is de verzamelnaam van deze ontwikkelingen. Ik bespreek die ontwikkelingen niet, die zijn nog altijd gaande. Na 2006 is er geen logisch en natuurlijk einde aan te wijzen voor een boek over dit onderwerp. Ik ga dan ook niet proberen om het toch te doen. Dit boek ademt misschien nostalgie. Het �vroeger was alles beter�-syndroom. Dat we dat syndroom na vijftien jaar internet al hebben is verwonderlijk maar daarom niet minder leuk om mee te maken. Ik maak voor het eerst mee dat ik onderdeel ben van geschiedenis, dat is een vreemde gewaarwording. Ik kan mijn dochter later vertellen �dat ik erbij was� en haar de artefacten laten zien van deze tijd.
+
+Dit boek is het voorlopige eindproduct van een proces wat we online co-creatie zou-den noemen. Wat je gaat lezen is het resultaat van vele uren, dagen en weken lezen, praten, e-mailen en schrijven. Ik mag me gelukkig prijzen dat ik de hulp heb gekregen van zoveel mensen om mij heen die hun verhaal vertelden. Ik heb veel bloggers ge-interviewd in persoon, via e-mail, telefoon en Google Wave. Dank aan allen die hun waardevolle tijd en aandacht hebben opgeofferd om mee te werken aan dit boek. Dank aan iedereen die een bijdrage heeft geleverd aan de tijdlijn van de Nederlandse blogosfeer en de Bloghelden-wiki. Dank aan iedereen die mij op Twitter of een ander ?sociaal netwerk volgt en me zo nu en dan een hart onder de riem steekt of waardevolle aanvullingen geeft.
+Er zijn een aantal mensen die ik in het bijzonder wil bedanken voor hun hulp, steun en inzichten. In volstrekt willekeurige volgorde zijn dat:
+
+Henk-Jan Winkeldermaat, voor onze eerste idee�n en jouw enthousiasme over de video-interviews (die helaas niet doorgingen).
+
+Indira Reynaert, voor je wijze raad tijdens het schrijven en samenstellen.
+
+Timo Boezeman, voor je visie op de boekenwereld, je vertrouwen in mij en het geloof in een goede uitkomst.
+
+Ruben Steeman + Martine de Jong, voor jullie enthousiaste JA op mijn eis dat jullie het boek gingen vormgeven.
+
+Erwin Blom, voor de aanmoedigingen en steun via Twitter en in de mail.
+
+Marjolijn Kamphuis, voor je hulp bij de eerste hoofdstukken.
+
+Kirstin van den Berg, omdat jij OOK zo precies bent in het meelezen en corrigeren van mijn teksten :-).
+
+Helie Schmetz en Tess Moana Meeuwsen, mijn twee prinsessen die maandenlang opgescheept hebben gezeten met een schrijvende huisgenoot. Ik hou van jullie!
+
+Ik sta op de schouders van de reuzen die v��r mij al delen van de webloggeschiedenis wereldwijd hebben verzameld en gepubliceerd. Wil je meer over dit onderwerp lezen, dan kan ik je van harte de volgende boeken aanbevelen:
+
+Scott Rosenberg	Say Everything 		(http://www.sayeverything.com)
+Rebecca Blood e.a.	We�ve got blog 		(http://bit.ly/gotblog)
+Michael Banks		Blogging Heroes 	(http://www.michaelabanks.com/)
+
+Ik wens jullie veel leesplezier. Alle op- en aanmerkingen zijn meer dan welkom op Bloghelden.nl. Want zoals James Lilek al eens zei:
+
+'Newspapers are lectures, the web is a conversation.'
+
+Op Bloghelden.nl kun je links, voetnoten en verdieping vinden per hoofdstuk.
