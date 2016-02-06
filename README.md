@@ -6,7 +6,7 @@ ISBN: 978 90 229 9699 7
 
 Te koop voor 9,95 euro via: http://bit.ly/boek_bloghelden
 
-
+![](cover_bloghelden.jpg "")
 
 ##LEES DIT EERST!
 
