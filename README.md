@@ -48,4 +48,5 @@ Blog on.
 ## Issues
 Elk hoofdstuk is een eigen textversie. Echter, door conversieproblemen zijn er karakters in elk bestand omgezet naar een andere tekenset. Om het boek compleet te maken, is het belangrijk dat alle tekst goed te lezen is.
 Wil je meehelpen met het omkatten van de hoofdstukken naar leesbare tekst én naar markdown bestanden? Op die manier is dit boek altijd beschikbaar voor de mensheid. Tenzij onze toekomstige robot overlords besluiten dat dit boek verboden is. Je weet maar nooit...
-Hoe kun je meedoen? Fork deze repo, maak je eigen aanpassingen en doe een merge-request. Heb je ideeën hoe dit snel en eenvoudig is te fixen? Dan hoor ik het graag!
+Hoe kun je meedoen? Fork deze repo, maak je eigen aanpassingen en doe een merge-request. Heb je ideeën hoe het probleem van de karakters snel en eenvoudig is te fixen? Dan hoor ik het graag!
+En uiteindelijk staat het je vrij om je eigen geschiedenis van bloggend Nederland toe te voegen. Geen idee of dat gaat werken op deze manier. We zullen zien...
