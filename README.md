@@ -1,16 +1,20 @@
 # Bloghelden
 
-Frank Meeuwsen
+![](https://github.com/frankmeeuwsen/Bloghelden/raw/master/cover_bloghelden.jpg "")
 
+Weblogs zijn vandaag de dag een niet meer weg te denken fenomeen in Nederland. Veel sites hebben een eigen weblog of nemen kenmerken van een weblog over. Maar hoe is het eigenlijk allemaal begonnen? Wie waren de eerste bloggers in Nederland en waarom schreven ze pagina na pagina vol?
+
+Bloghelden beschrijft en viert de geschiedenis van meer dan tien jaar webloggen in Nederland. Aan de hand van vijftien interviews wordt een beeld geschetst van een groep pioniers die het medialandschap in Nederland een belangrijke impuls gaven. Het is een illustratieve bloemlezing van de Nederlandse blogosfeer.
+
+Een bijzonder tijdsdocument voor journalisten, mediawetenschappers, communicatieve en mediaopleidingen en iedereen met een affiniteit voor digitale media. Het boek pretendeert niet wetenschappelijk en volledig te zijn, maar wil laten zien dat er in de afgelopen jaren een interessante subcultuur is ontstaan die nu mainstream is geworden. 
+
+Auteur: Frank Meeuwsen
 ISBN: 978 90 229 9699 7
-
 1e druk: 2010
+Te koop als echt boek voor 9,95 euro via: [http://bit.ly/boek_bloghelden](http://bit.ly/boek_bloghelden) maar tevens gratis te downloaden als PDF of eBook via Github
 
-Te koop voor 9,95 euro via: http://bit.ly/boek_bloghelden
 
-![](cover_bloghelden.jpg "")
-
-##LEES DIT EERST!
+## LEES DIT EERST!
 
 Onderstaande tekstversie van het boek geef ik vrij en distribueer ik onder de Creative Commons licentie [Naamsvermelding-NietCommercieel-GelijkDelen 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/nl/).
 
@@ -30,7 +34,7 @@ Onder de volgende voorwaarden
 Aan het eind van dit bestand kun je de volledige juridische tekst lezen
 
 
-##WAAROM EEN TXT VERSIE?
+## WAAROM EEN TXT VERSIE?
 
 Het kan wat vreemd overkomen, een boek als tekst-bestand. Voor mij en voor de uitgever is het een experiment. Omdat we beiden geloven in de nieuwe distributievormen en creatieve krachten van het web. Bovenaan vind je een Creative Commons licentie die al iets anders is dan de standaard copyright tekst die je elders ziet. Maar ik denk dat het mogelijk is om naast een standaard boek op papier, juist in het digitale domein iets anders te doen.
 Copyright is niet slecht. Sterker nog, door copyright-wetten is het mogelijk voor mij om wat geld te verdienen aan mijn creatieve werk. Maar het hoeft niet ten koste van alles te gaan. En dat is wel wat nu gaande is, met name in het digitale domein.
