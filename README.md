@@ -1,6 +1,6 @@
 # Bloghelden
 
-![](https://github.com/frankmeeuwsen/Bloghelden/raw/master/cover_bloghelden.jpg "")
+<img src="https://github.com/frankmeeuwsen/Bloghelden/raw/master/cover_bloghelden.jpg" />
 
 Weblogs zijn vandaag de dag een niet meer weg te denken fenomeen in Nederland. Veel sites hebben een eigen weblog of nemen kenmerken van een weblog over. Maar hoe is het eigenlijk allemaal begonnen? Wie waren de eerste bloggers in Nederland en waarom schreven ze pagina na pagina vol?
 
