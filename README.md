@@ -2,6 +2,10 @@
 
 <img src="https://github.com/frankmeeuwsen/Bloghelden/raw/master/cover_bloghelden.jpg" />
 
+[Download de PDF van het boek](https://github.com/frankmeeuwsen/Bloghelden/raw/master/bloghelden-boekversie.pdf)
+
+[Download de ebook versie van het boek](https://github.com/frankmeeuwsen/Bloghelden/raw/master/bloghelden-ebook.pdf)
+
 Weblogs zijn vandaag de dag een niet meer weg te denken fenomeen in Nederland. Veel sites hebben een eigen weblog of nemen kenmerken van een weblog over. Maar hoe is het eigenlijk allemaal begonnen? Wie waren de eerste bloggers in Nederland en waarom schreven ze pagina na pagina vol?
 
 Bloghelden beschrijft en viert de geschiedenis van meer dan tien jaar webloggen in Nederland. Aan de hand van vijftien interviews wordt een beeld geschetst van een groep pioniers die het medialandschap in Nederland een belangrijke impuls gaven. Het is een illustratieve bloemlezing van de Nederlandse blogosfeer.
@@ -11,7 +15,7 @@ Een bijzonder tijdsdocument voor journalisten, mediawetenschappers, communicatie
 Auteur: Frank Meeuwsen
 ISBN: 978 90 229 9699 7
 1e druk: 2010
-Te koop als echt boek voor 9,95 euro via: [http://bit.ly/boek_bloghelden](http://bit.ly/boek_bloghelden) maar tevens gratis te downloaden als PDF of eBook via Github
+Te koop als echt boek voor 9,95 euro via: [http://bit.ly/boek_bloghelden](http://bit.ly/boek_bloghelden) maar tevens gratis te downloaden als [PDF](https://github.com/frankmeeuwsen/Bloghelden/raw/master/bloghelden-boekversie.pdf) of [eBook](https://github.com/frankmeeuwsen/Bloghelden/raw/master/bloghelden-ebook.pdf) via Github
 
 
 ## LEES DIT EERST!
