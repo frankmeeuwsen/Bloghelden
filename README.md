@@ -6,6 +6,8 @@
 
 [Download de ebook versie van het boek](https://github.com/frankmeeuwsen/Bloghelden/raw/master/bloghelden-ebook.pdf)
 
+[Download en deel het boek via Github](https://github.com/frankmeeuwsen/Bloghelden)
+
 Weblogs zijn vandaag de dag een niet meer weg te denken fenomeen in Nederland. Veel sites hebben een eigen weblog of nemen kenmerken van een weblog over. Maar hoe is het eigenlijk allemaal begonnen? Wie waren de eerste bloggers in Nederland en waarom schreven ze pagina na pagina vol?
 
 Bloghelden beschrijft en viert de geschiedenis van meer dan tien jaar webloggen in Nederland. Aan de hand van vijftien interviews wordt een beeld geschetst van een groep pioniers die het medialandschap in Nederland een belangrijke impuls gaven. Het is een illustratieve bloemlezing van de Nederlandse blogosfeer.
