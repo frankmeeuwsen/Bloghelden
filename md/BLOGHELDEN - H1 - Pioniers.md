@@ -353,6 +353,319 @@ thematischer, er kwamen nieuwsbrieven voor voetbalclubs, moppen en
 uitgaan. De e-zines in Nederland zijn nodig geweest voor de volgende
 stap die de schrijvers konden maken, zelfstandig publiceren op het web.
 
+## Bloggen met één doel: Het Internet opkopen en sluiten
+
+*Het Dagelijks Nieuws - 7 mei 1997*
+
+*"Gelezen op pagina 2 (economie): \'Dankzij het Internet maakt Levi\'s
+tegenwoordig spijkerbroeken op maat, iets dat vroeger ondenkbaar
+was.\'"*
+
+*Het Dagelijks Nieuws -- 8 mei 1997*
+
+*"Ook deze week is de landelijke creativiteit weer schrikbarend gedaald.
+De vorige week ingezette trend lijkt zich te continueren. Ten opzichte
+van dezelfde week vorig jaar daalde de landelijke creativiteit met maar
+liefst 45%. Analisten voorspellen dat het einde voorlopig nog niet in
+zicht is. Ons advies: verkopen."*
+
+"Alt0169 is opgezet als weblog vrij gemodeleerd naar aanleiding van
+Robot Wisdom en Memepool. Het was een logisch vervolg op (voorheen) Het
+Dagelijks Nieuws op de Jeroen Bosch homepage, geschreven door mijzelf en
+Hugo Spruijt. Het Dagelijks Nieuws bestond uit een aaneenschakeling van
+associaties en invallen vrij geinspireerd op het nieuws, licht
+absurdistisch van karakter, dagelijks een of meer berichten, tekeningen,
+animaties, links. Een weblog avant la lettre, al bestond dat woord toen
+nog niet. De site was actief van 6 mei 1997 tot en met 18 mei 1999 en
+nog in archief online"[^23]
+
+Jeroen Bosch kende via Het Dagelijks Nieuws een aantal lezers
+persoonlijk. Gezamenlijk besloten ze na het stoppen van Het Dagelijks
+Nieuws om een nieuwe site te beginnen.
+
+Joep Vermaat is één van de lezers van Het Dagelijks Nieuws. Joep is al
+een tijd op het web actief onder zijn pseudoniem Pjoe! en op de
+gelijknamige site heeft hij een klein blog over zijn belevenissen bij
+concerten en voor zijn werk in het buitenland.[^24] Joep is duidelijk
+aan het experimenteren met de mogelijkheden van het schrijven op het web
+en de design- en programmeermogelijkheden.
+
+*"So here we are, halfway through the design phase. Had some input on my
+first try. It made me doubt, but I still quite like the vertical index
+below. Did discover some great things using the backgroundcolor of table
+cells. Skipped the borders, added a picture. It\'s looking nicer
+already."*
+
+Joep houdt op zijn site bij wat hij verandert in het design om na een
+periode stilte te melden dat er meer activiteit van hem op een andere
+site zou zijn.
+
+Jeroen: "Samen met Joep hebben we gebrainstormed over een naam en een
+domeinnaam. We ontdekten dat c.com nog vrij was. c.com: supercool!
+Alleen bleek na enkele dagen dat c.com niet werd vrijgegeven om ons
+verder onbekende redenen. Als alternatief is toen gekozen voor alt0169,
+ascii-code voor het copyrightteken. De opzet was een klassiek weblog,
+een linkdump: wat we elkaar door gaven middels mail en ICQ, dat zouden
+we kunnen gaan delen in het openbaar en in principe met de hele wereld -
+een chronologisch opgezette nieuwswebsite, laatste bericht bovenaan, al
+het nieuws op de voorpagina."
+
+Eén van de lezers van Het Dagelijks Nieuws is Robert van Eijden alias
+Oxysept: "In de tijd van HDN (\'97/\'98) begonnen Jeroen en ik te mailen
+en vanaf de zomer van 1999 ontmoetten we elkaar in het echt. Op een
+barbecue die zomer in de tuin van de opnamestudio van de Rotterdamse
+blindenbibliotheek waar eveneens Hubert van later Retecool aanwezig was,
+vroeg Jeroen of ik mee wilde doen met zijn nog op te richten weblog
+Alt0169.com, samen met Joep. Dat leek me wel wat, ik was zelf al actief
+op mijn eigen website Maarwatishet.com. Dat is niet echt een weblog te
+noemen. Zo zou ik verschillende platforms hebben voor verschillende
+behoeften."
+
+Robert is met zijn website Maarwatishet.com een verademing in de
+Nederlandse internetwereld en een bron van linkinspiratie voor veel
+webloggers. Oxysept, zijn nickname is afgeleid van de
+contactlensvloeistof, is echter kraakhelder met zijn mening over het
+web: "Het hele internet is wat mij betreft een duivelse plaats waar
+iedereen zo ver mogelijk bij vandaan dient te blijven."
+
+Met zijn eigen, ietwat verwrongen beeld van de wereld schrijft hij
+pagina na pagina vol met zijn belevenissen. "Ik ben ooit met
+Maarwatishet.com begonnen omdat mijn e-mails aan vrienden, bekenden en
+zelfs onbekenden steeds vreemder en wijdlopiger van aard werden. Het
+leek mij daarom handiger om de verslagen van mijn belevenissen (en
+vooral het gebrek daaraan) op een website te zetten. Omdat ik zelf ook
+niet precies wist wat voor site het was, noemde ik het geheel *Maar wat
+is het?* Dat was in november 1998. In mei 1999 kocht ik het domein
+Maarwatishet.com en daar zit ik nu nog steeds."
+
+Een weblog konden en mochten we het niet noemen. Oxysept in zijn eigen
+woorden: "In de begindagen van mijn site was het misschien wel een
+weblog, toen postte ik soms drie stukjes per dag. Helaas zijn de
+archieven van de eerste maanden verloren gegaan bij een grote brand. Een
+enorm drama was dat. (O nee, dat klopt niet, ik heb ze gewoon verwijderd
+toen ik overging naar mijn eigen domein.) Nu post ik nog maar ongeveer
+drie updates per jaar, al zijn die stukken meestal wel veel langer dan
+de oprispingen uit mijn begintijd. Qua updatefrequentie voldoe ik dus
+niet aan de term weblogger, en wat inhoud betreft ook niet echt. Zelf
+heb ik mijn site bij de lancering 'e-zine' gedoopt, dat is Engelands
+voor 'elektronisch tijdschrift'. (E-zine was een hippe term in 1998, net
+als 'push-technologie' en 'printing on demand'.) Wat mijn site nog
+minder weblog maakt, is dat ik nooit een reactiepaneel heb gehad -- in
+het begin niet omdat zulks nog niet bestond, en later niet omdat ik te
+autistisch ben om de HTML van mijn site aan te passen (die is daarom al
+sinds 1999 onveranderd gebleven). Uit mijn parttime-autisme zijn
+overigens de meeste verhalen op Maarwatishet.com voortgekomen, dus wat
+dat betreft zijn vorm en inhoud één"
+
+Robert begon samen met Jeroen Bosch en Joep Vermaat Alt0169.com. De site
+zag op 16 augustus 1999 het levenslicht en het was direct een hit. Omdat
+het zo anders was, zo vernieuwend voor het Nederlandse web. De
+schrijvers op Alt0169 noemden zich Newswatchers: "We maakten geen
+nieuws, we lazen nieuws. Een handvol human agents die als intensieve
+lezers dagelijks een stuk of wat maal het ganse internet aflazen en zo
+heel veel dingen tegen kwamen. Design, techniek, nieuws, internet: heel
+breed."
+
+Francisco van Jole: "Alt0169 was de eerste die er toe deed. Zij hadden
+alles wat weblogs hebben gemaakt tot wat het nu is. Ze hadden een eigen
+taaltje, gebruikten pseudoniemen en maakten zichzelf wat groter door af
+te geven op anderen. Veel termen die nu nog worden gebruikt komen
+rechtsreeks van alt0169 vandaan. De invloed van die blog is nu nog
+merkbaar in de Nederlandse blogosfeer." Het is Francisco die in 1999
+voor het eerst een kort stukje schrijft over Alt0169 en Jeroen Bosch:
+"Opvallend is ook dat hij mensen niet bij naam noemt maar bij hun URL of
+email-naam."
+
+De schrijvers van Alt0169 waren op de site vaak alleen te herkennen aan
+hun initialen of hun pseudoniemen. De schrijversgroep zou een aantal
+wisselingen kennen, maar de volledige groep schrijvers bestaat uit
+
+Jeroen Bosch aka de Kolonel
+
+Joep Vermaat aka Pjoe
+
+Robert van Eijden aka Oxysept
+
+Ralph Oei aka Eendvogel
+
+Frank Scheelen aka Perk
+
+Alt0169 valt op. Ze schrijven meerdere malen per dag een update op de
+weblog, maar ze zijn ook een expert in het vinden van nieuws,
+interessante sites en de opvallende nieuwe ontwikkelingen op dat nieuwe
+wereldwijde web. Ze pseudoniemen die ze gebruiken zijn geen probleem,
+sterker nog, het versterkt de ietwat mystieke sfeer die hangt om het
+collectief. Ze bedenken eigen termen en het vernederlandsen van Engelse
+termen wordt een sport bij de schrijvers. Beruchte voorbeelden van het
+spelen met taal zijn "wat ik je brom", "internot", "stromende media" en
+"Geile Neukseks". Het gebruik van de term "Het Utrechtse stadje U." en
+"Het Amsterdamse stadje A." komt van Alt0169 en is nog een vaak
+gebruikte term op diverse websites en sociale netwerken. De bekendste
+term die Alt0169 heeft geïntroduceerd is het potsje. Inderdaad, een
+post, een weblogartikel. De term wordt tot op de dag van vandaag nog
+gebruikt door webloggers die meewarig kijken naar de corrigerende
+reacties als de term weer in een artikel wordt gebruikt.
+
+Jeroen: "Een term als hardcore vernederlandsden we naar haardcore. Nog
+niet plat genoeg werd dat open haardcore. En omdat in die tijd alles
+mega was werd dat mega open haardcore. En dat werd weer getransponeerd
+naar Rotterdam: Rotterdam mega open haardcore webring"
+
+Frank Scheelen, was al actief met een eigen weblog, MoreWhereThat. Een
+Spartaans uiterlijk, knalgroene achtergrond, maar erg opvallend omdat
+het zowel de korte linkdumps combineerde met langere en inzichtelijke
+artikelen. MoreWhereThat was één van de eersten die een onderscheid
+maakte met een inleidende tekst en een link naar de complete
+artikelpagina, een normale manier voor de hedendaagse blogs, maar toen
+nog erg vernieuwend. In de begintijd van de blogs was het normaal om je
+complete blogpost op de voorpagina te plaatsen, omdat de weblogsoftware
+dat nu eenmaal zo dicteerde. 500 links en 254 artikelen later was het al
+weer klaar voor MoreWhereThat, op 24 juli 2000 stopte Frank om bij
+Alt0169 verder te gaan:" Jeroen heeft me op zeker moment gevraagd om mee
+te schrijven aan Alt0169. Dat streelde mijn ego, want Alt was op dat
+moment de grootste en hipste particuliere webpublicatie in Nederland. Ik
+heb toen een paar maanden mee gedaan, maar het tempo lag me uiteindelijk
+te hoog. Alt was toch voornamelijk een linkdump: de lekkerste, meest
+verse links verpakt in korte puntige stukjes in een volstrekt
+idiosyncratisch idioom. MWT was in vergelijking met Alt een stuk
+rustiger en saaier: de hoofdmoot bestond uit wat langere posts waarin
+soms geen link voorkwam. We streefden naar een wat journalistieke,
+opiniërende toon."
+
+***We vonden het wat gortig worden, met een stuk of zeventig weblogs in
+Nederland.***
+
+Naam: Frank Scheelen
+
+Weblog: Morewherethat // http://www.perk.nl/morewherethat/
+
+Eind jaren negentig begon het web te exploderen in omvang. Tot die tijd
+heerste het gevoel hebben dat je alles van belang wel gelezen kon
+hebben. Bij Alt0169 zeiden we dat ook: ik heb vandaag het internet weer
+uitgelezen. Een van de mensen die dat ook schenen te doen was Jorn
+Barger van robotwisdom.org. Jorn Barger was een curieuze figuur. Een
+beetje malle, gestudeerde gast met een woeste baard. Hij deed volgens
+mij weinig meer dan websurfen op zijn antieke PC en hield daar een
+logboek van bij, een weblog. Wat mij aan dat logboek fascineerde was dat
+ik na verloop van tijd het gevoel kreeg dat ik Barger daadwerkelijk
+kende, ondanks het feit dat hij zich (in zijn weblog) beperkte tot het
+posten van linkjes. In zijn selectie tekende zich een persoonlijkheid
+af.
+
+Ik stuurde toentertijd in de signature van mijn mailtjes vaak een link
+naar een interessante website of -pagina mee. Ik zag dat Robotwisdom
+zo'n soort linkdump was en ik wilde iets met PHP gaan doen. Wat ik toen
+deed was met Robotwisdom als voorbeeld mijn eigen site maken. Zo is
+Morewherethat (MWT) ontstaan, ik wilde mijn eigen plek om links op te
+plaatsen. Maar MWT kreeg daarnaast een afdeling met noeste
+handgeschreven artikelen, over dingen die me persoonlijk bezig hielden.
+Die namen veelal de vorm aan van recensies. Daarin leek het al veel meer
+op de blogs zoals we die nu kennen.
+
+Al snel na de start van MWT heb ik Frank Hartgers en Michiel Leenaars
+gevraagd om mee te schrijven. Zij waren studievrienden met wie ik
+ongeveer een jaar daarvoor geprobeerd had een website over nieuwe media
+literatuur van de grond te tillen, perk.nl. Verder waren er nog wat
+gastauteurs, veelal vrienden van mij. We hadden serieuze plannen met
+Perk, dat weblog deden we er eigenlijk maar een beetje bij. Maar we
+waren en zijn nog steeds nieuwsgierige mannetjes. Multidisciplinaire
+types met een diepgaande interesse voor cultuur in de breedste zin van
+het woord. Daar horen muziek en literatuur bij, maar ook de ontwikkeling
+van de nieuwste processors en de games die ze mogelijk maken. Een weblog
+is bij uitstek een podium waarop je al deze passies kunt uitleven, de
+spreekwoordelijke zeepkist.
+
+Ik had zelf met PHP een webinterface op een MySQL database in elkaar
+geknutseld, een soort mini-CMS\'je. Dat klinkt tegenwoordig als een
+no-brainer, maar toen was dat best opmerkelijk. Jeroen en Joep deden
+Alt0169 helemaal met notepad en FTP en ze keken met enige jaloezie naar
+dat high-tech systeem van ons. Dat was een paar jaar voordat Blogger
+groot werd. Ik heb mezelf later wel eens voor de kop geslagen. Als ik
+dat systeempje van mij toen te gelde had gemaakt was ik nu binnen
+geweest. Het internet is een festival van gemiste kansen.
+
+Na een jaar zijn we weer gestopt met MWT. Het leek ons een mooie
+symbolische periode. We vonden het wat gortig worden, met een stuk of
+zeventig weblogs in Nederland. Al die zelfbevlekkerij! We hebben
+geprobeerd het goede voorbeeld te geven door er een punt achter te
+zetten. Het heeft niet geholpen.
+
+Het zou een interessante ervaring geweest zijn als we met MWT één van de
+eerste grote blogs waren. In die tijd waren blogs een randverschijnsel
+waarop door de professionele journalistiek werd neergekeken. Ik kan me
+een sneer herinneren van journaliste Marie-José Klaver die weblogs
+terzijde veegde als een medium voor amateurs. Daarin had ze natuurlijk
+gelijk, maar ze miste het belangrijkste punt. Een weblog (of een website
+in het algemeen) stelt je in staat om als individu je stem te verheffen
+in het publieke debat, en wel op een schaal die voorheen onmogelijk was.
+Tot de komst van het internet was je als niet-professioneel schrijver
+aangewezen op de ingezonden brieven rubrieken. Wilde je serieus aan de
+slag dan moest je toetreden tot een redactie of zelf een tijdschrift
+oprichten, met alle kop- en geldzorgen van dien. Het weblogfenomeen
+heeft dat voorgoed veranderd.
+
+Ik kan me voorstellen dat MWT had kunnen profiteren van die
+cultuuromslag. Natuurlijk hadden we dan professioneler moeten worden,
+met een diepere site, een betere vormgeving en een solide redactie.
+Anderzijds realiseer ik me dat MWT totaal geen inhoudelijke lijn
+vertoonde. Het was een allegaartje van dingen die we leuk vonden. Dat
+soort blogs wordt zelden echt groot. De meest succesvolle blogs beperken
+zich toch vaak tot één onderwerp: internet, politiek, koken,
+modelbouwtreintjes. Had MWT een serieuze stem in een of ander
+maatschappelijke debat willen hebben, dan hadden we ons moeten
+toespitsen op een enkel onderwerp en daarmee hadden we het karakter van
+de site veranderd. Ik weet niet of het dan nog wel zo leuk geweest was.
+Dan zou het meer als een baan aanvoelen.
+
+De bomen rezen tot de hemel aan het begin van de 21^e^ eeuw. Niets was
+te gek, internet was het beloofde land en iedereen met een vaag
+businessplan op een viltje kon zo zakken geld ophalen om zijn online
+winkel of dienstverlening tot een succes te maken. We weten intussen dat
+het allemaal anders is gelopen. De Dotcom hype ligt al lang achter ons,
+de slachtoffers van toen zijn weer opgekrabbeld en met wat meer
+realiteitszin weer verder gegaan. Het Nederlandse vlaggenschip van deze
+periode was Newconomy, het investeringsbedrijf van o.a. Maurice de Hond
+en Roel Pieper. Zij wilden alleen in Nederlandse bedrijven investeren om
+zo het hoofd te bieden aan de verwachte invasie van Amerikaanse
+bedrijven. Maar gelukkig was niet iedereen in een jubelstemming over
+alle nieuwe mogelijkheden die het web ons bracht. De bloggers van het
+eerste uur, veelal zelf werkzaam in de internetindustrie, waren
+sceptisch over alle wilde plannen, ronkende persberichten en de twee
+omhooggestoken duimen van World Online's Nina Brink. Alt0169 was de
+voorloper in het sceptisme. Jeroen Bosch: "Ralph Oei en ik deden lustig
+mee tijdens een open chat van Newconomy. Wij vroegen ze het hemd van het
+lijf met door ons verzonnen begrippen en kregen daar duidelijk antwoord
+op dat ze daar zeker mee bezig waren. Fan Based Marketing kan ik me nog
+herinneren, was een van de gebruikte begrippen."
+
+De mannen van Alt0169 lieten het echter niet bij één chatsessie. Al snel
+verschenen Fewconomy.nl (We Rule Openhaardcore) en Worldoffline.nl, twee
+parodiesites op de iconen van de nieuwe Nederlande netwerkeconomie. Het
+doel van Fewconomy? "het internet op te kopen en te sluiten." Niets meer
+en niets minder.
+
+Op 25 januari 2001 zou Fewconomy te koop staan op eBay[^25]. De reden is
+wederom logisch: "Om het internet op te kopen en te sluiten is geld
+nodig, veel geld. Om de financiële positie van Fewconomy te versterken,
+is er voor gekozen om fewconomy.com zelf als eerste exit te laten gaan.
+Met de verwachte revenuen zullen Yahoo! en Geocities worden opgekocht en
+gesloten."
+
+Diverse bloggers bieden hevig op de dan waardeloze onderneming maar de
+domeinnaam gaat uiteindelijk naar Jan de Vries. De vraag blijft echter
+bestaan, is het wel de echte Jan de Vries? Deze naam staat bekend in de
+begindagen van het web als een veelgebruikt pseudoniem door de redactie
+en lezers van Alt0169 in reactiepanelen, om anoniem startpagina's aan te
+kunnen maken en in te loggen op gekraakte CMS'en.
+
+De Fewconomy avonturen zijn tekenend voor de wilde groep kunstenaars die
+Alt0169 dagelijks vullen met links over het hele web. Maar
+tegelijkertijd mijden ze het landelijke nieuws niet. Jeroen en kornuiten
+zien dat het web groeit, dat de kinderjaren voorbij zijn en dat "het
+grote publiek" zich online laat zien. Dat publiek kwam vooral online via
+een van de eerste commerciële internetproviders in Nederland, Planet
+Internet.
+
 ## De eerste golf weblogs
 
 In de periode dat de e-zines floreerden in Nederland, ontstond er in de
@@ -735,319 +1048,6 @@ verborgen framesetje, of door het verplicht te plaatsen plaatje een
 formaat van 1 bij 1 pixels mee te geven. Al is de leugen nog zo snel,
 Alt0169 achterhaalt de teller wel. Dat was de Nedstat Teller Dag" --
 Jeroen Bosch, Alt0169*
-
-## Bloggen met één doel: Het Internet opkopen en sluiten
-
-*Het Dagelijks Nieuws - 7 mei 1997*
-
-*"Gelezen op pagina 2 (economie): \'Dankzij het Internet maakt Levi\'s
-tegenwoordig spijkerbroeken op maat, iets dat vroeger ondenkbaar
-was.\'"*
-
-*Het Dagelijks Nieuws -- 8 mei 1997*
-
-*"Ook deze week is de landelijke creativiteit weer schrikbarend gedaald.
-De vorige week ingezette trend lijkt zich te continueren. Ten opzichte
-van dezelfde week vorig jaar daalde de landelijke creativiteit met maar
-liefst 45%. Analisten voorspellen dat het einde voorlopig nog niet in
-zicht is. Ons advies: verkopen."*
-
-"Alt0169 is opgezet als weblog vrij gemodeleerd naar aanleiding van
-Robot Wisdom en Memepool. Het was een logisch vervolg op (voorheen) Het
-Dagelijks Nieuws op de Jeroen Bosch homepage, geschreven door mijzelf en
-Hugo Spruijt. Het Dagelijks Nieuws bestond uit een aaneenschakeling van
-associaties en invallen vrij geinspireerd op het nieuws, licht
-absurdistisch van karakter, dagelijks een of meer berichten, tekeningen,
-animaties, links. Een weblog avant la lettre, al bestond dat woord toen
-nog niet. De site was actief van 6 mei 1997 tot en met 18 mei 1999 en
-nog in archief online"[^23]
-
-Jeroen Bosch kende via Het Dagelijks Nieuws een aantal lezers
-persoonlijk. Gezamenlijk besloten ze na het stoppen van Het Dagelijks
-Nieuws om een nieuwe site te beginnen.
-
-Joep Vermaat is één van de lezers van Het Dagelijks Nieuws. Joep is al
-een tijd op het web actief onder zijn pseudoniem Pjoe! en op de
-gelijknamige site heeft hij een klein blog over zijn belevenissen bij
-concerten en voor zijn werk in het buitenland.[^24] Joep is duidelijk
-aan het experimenteren met de mogelijkheden van het schrijven op het web
-en de design- en programmeermogelijkheden.
-
-*"So here we are, halfway through the design phase. Had some input on my
-first try. It made me doubt, but I still quite like the vertical index
-below. Did discover some great things using the backgroundcolor of table
-cells. Skipped the borders, added a picture. It\'s looking nicer
-already."*
-
-Joep houdt op zijn site bij wat hij verandert in het design om na een
-periode stilte te melden dat er meer activiteit van hem op een andere
-site zou zijn.
-
-Jeroen: "Samen met Joep hebben we gebrainstormed over een naam en een
-domeinnaam. We ontdekten dat c.com nog vrij was. c.com: supercool!
-Alleen bleek na enkele dagen dat c.com niet werd vrijgegeven om ons
-verder onbekende redenen. Als alternatief is toen gekozen voor alt0169,
-ascii-code voor het copyrightteken. De opzet was een klassiek weblog,
-een linkdump: wat we elkaar door gaven middels mail en ICQ, dat zouden
-we kunnen gaan delen in het openbaar en in principe met de hele wereld -
-een chronologisch opgezette nieuwswebsite, laatste bericht bovenaan, al
-het nieuws op de voorpagina."
-
-Eén van de lezers van Het Dagelijks Nieuws is Robert van Eijden alias
-Oxysept: "In de tijd van HDN (\'97/\'98) begonnen Jeroen en ik te mailen
-en vanaf de zomer van 1999 ontmoetten we elkaar in het echt. Op een
-barbecue die zomer in de tuin van de opnamestudio van de Rotterdamse
-blindenbibliotheek waar eveneens Hubert van later Retecool aanwezig was,
-vroeg Jeroen of ik mee wilde doen met zijn nog op te richten weblog
-Alt0169.com, samen met Joep. Dat leek me wel wat, ik was zelf al actief
-op mijn eigen website Maarwatishet.com. Dat is niet echt een weblog te
-noemen. Zo zou ik verschillende platforms hebben voor verschillende
-behoeften."
-
-Robert is met zijn website Maarwatishet.com een verademing in de
-Nederlandse internetwereld en een bron van linkinspiratie voor veel
-webloggers. Oxysept, zijn nickname is afgeleid van de
-contactlensvloeistof, is echter kraakhelder met zijn mening over het
-web: "Het hele internet is wat mij betreft een duivelse plaats waar
-iedereen zo ver mogelijk bij vandaan dient te blijven."
-
-Met zijn eigen, ietwat verwrongen beeld van de wereld schrijft hij
-pagina na pagina vol met zijn belevenissen. "Ik ben ooit met
-Maarwatishet.com begonnen omdat mijn e-mails aan vrienden, bekenden en
-zelfs onbekenden steeds vreemder en wijdlopiger van aard werden. Het
-leek mij daarom handiger om de verslagen van mijn belevenissen (en
-vooral het gebrek daaraan) op een website te zetten. Omdat ik zelf ook
-niet precies wist wat voor site het was, noemde ik het geheel *Maar wat
-is het?* Dat was in november 1998. In mei 1999 kocht ik het domein
-Maarwatishet.com en daar zit ik nu nog steeds."
-
-Een weblog konden en mochten we het niet noemen. Oxysept in zijn eigen
-woorden: "In de begindagen van mijn site was het misschien wel een
-weblog, toen postte ik soms drie stukjes per dag. Helaas zijn de
-archieven van de eerste maanden verloren gegaan bij een grote brand. Een
-enorm drama was dat. (O nee, dat klopt niet, ik heb ze gewoon verwijderd
-toen ik overging naar mijn eigen domein.) Nu post ik nog maar ongeveer
-drie updates per jaar, al zijn die stukken meestal wel veel langer dan
-de oprispingen uit mijn begintijd. Qua updatefrequentie voldoe ik dus
-niet aan de term weblogger, en wat inhoud betreft ook niet echt. Zelf
-heb ik mijn site bij de lancering 'e-zine' gedoopt, dat is Engelands
-voor 'elektronisch tijdschrift'. (E-zine was een hippe term in 1998, net
-als 'push-technologie' en 'printing on demand'.) Wat mijn site nog
-minder weblog maakt, is dat ik nooit een reactiepaneel heb gehad -- in
-het begin niet omdat zulks nog niet bestond, en later niet omdat ik te
-autistisch ben om de HTML van mijn site aan te passen (die is daarom al
-sinds 1999 onveranderd gebleven). Uit mijn parttime-autisme zijn
-overigens de meeste verhalen op Maarwatishet.com voortgekomen, dus wat
-dat betreft zijn vorm en inhoud één"
-
-Robert begon samen met Jeroen Bosch en Joep Vermaat Alt0169.com. De site
-zag op 16 augustus 1999 het levenslicht en het was direct een hit. Omdat
-het zo anders was, zo vernieuwend voor het Nederlandse web. De
-schrijvers op Alt0169 noemden zich Newswatchers: "We maakten geen
-nieuws, we lazen nieuws. Een handvol human agents die als intensieve
-lezers dagelijks een stuk of wat maal het ganse internet aflazen en zo
-heel veel dingen tegen kwamen. Design, techniek, nieuws, internet: heel
-breed."
-
-Francisco van Jole: "Alt0169 was de eerste die er toe deed. Zij hadden
-alles wat weblogs hebben gemaakt tot wat het nu is. Ze hadden een eigen
-taaltje, gebruikten pseudoniemen en maakten zichzelf wat groter door af
-te geven op anderen. Veel termen die nu nog worden gebruikt komen
-rechtsreeks van alt0169 vandaan. De invloed van die blog is nu nog
-merkbaar in de Nederlandse blogosfeer." Het is Francisco die in 1999
-voor het eerst een kort stukje schrijft over Alt0169 en Jeroen Bosch:
-"Opvallend is ook dat hij mensen niet bij naam noemt maar bij hun URL of
-email-naam."
-
-De schrijvers van Alt0169 waren op de site vaak alleen te herkennen aan
-hun initialen of hun pseudoniemen. De schrijversgroep zou een aantal
-wisselingen kennen, maar de volledige groep schrijvers bestaat uit
-
-Jeroen Bosch aka de Kolonel
-
-Joep Vermaat aka Pjoe
-
-Robert van Eijden aka Oxysept
-
-Ralph Oei aka Eendvogel
-
-Frank Scheelen aka Perk
-
-Alt0169 valt op. Ze schrijven meerdere malen per dag een update op de
-weblog, maar ze zijn ook een expert in het vinden van nieuws,
-interessante sites en de opvallende nieuwe ontwikkelingen op dat nieuwe
-wereldwijde web. Ze pseudoniemen die ze gebruiken zijn geen probleem,
-sterker nog, het versterkt de ietwat mystieke sfeer die hangt om het
-collectief. Ze bedenken eigen termen en het vernederlandsen van Engelse
-termen wordt een sport bij de schrijvers. Beruchte voorbeelden van het
-spelen met taal zijn "wat ik je brom", "internot", "stromende media" en
-"Geile Neukseks". Het gebruik van de term "Het Utrechtse stadje U." en
-"Het Amsterdamse stadje A." komt van Alt0169 en is nog een vaak
-gebruikte term op diverse websites en sociale netwerken. De bekendste
-term die Alt0169 heeft geïntroduceerd is het potsje. Inderdaad, een
-post, een weblogartikel. De term wordt tot op de dag van vandaag nog
-gebruikt door webloggers die meewarig kijken naar de corrigerende
-reacties als de term weer in een artikel wordt gebruikt.
-
-Jeroen: "Een term als hardcore vernederlandsden we naar haardcore. Nog
-niet plat genoeg werd dat open haardcore. En omdat in die tijd alles
-mega was werd dat mega open haardcore. En dat werd weer getransponeerd
-naar Rotterdam: Rotterdam mega open haardcore webring"
-
-Frank Scheelen, was al actief met een eigen weblog, MoreWhereThat. Een
-Spartaans uiterlijk, knalgroene achtergrond, maar erg opvallend omdat
-het zowel de korte linkdumps combineerde met langere en inzichtelijke
-artikelen. MoreWhereThat was één van de eersten die een onderscheid
-maakte met een inleidende tekst en een link naar de complete
-artikelpagina, een normale manier voor de hedendaagse blogs, maar toen
-nog erg vernieuwend. In de begintijd van de blogs was het normaal om je
-complete blogpost op de voorpagina te plaatsen, omdat de weblogsoftware
-dat nu eenmaal zo dicteerde. 500 links en 254 artikelen later was het al
-weer klaar voor MoreWhereThat, op 24 juli 2000 stopte Frank om bij
-Alt0169 verder te gaan:" Jeroen heeft me op zeker moment gevraagd om mee
-te schrijven aan Alt0169. Dat streelde mijn ego, want Alt was op dat
-moment de grootste en hipste particuliere webpublicatie in Nederland. Ik
-heb toen een paar maanden mee gedaan, maar het tempo lag me uiteindelijk
-te hoog. Alt was toch voornamelijk een linkdump: de lekkerste, meest
-verse links verpakt in korte puntige stukjes in een volstrekt
-idiosyncratisch idioom. MWT was in vergelijking met Alt een stuk
-rustiger en saaier: de hoofdmoot bestond uit wat langere posts waarin
-soms geen link voorkwam. We streefden naar een wat journalistieke,
-opiniërende toon."
-
-***We vonden het wat gortig worden, met een stuk of zeventig weblogs in
-Nederland.***
-
-Naam: Frank Scheelen
-
-Weblog: Morewherethat // http://www.perk.nl/morewherethat/
-
-Eind jaren negentig begon het web te exploderen in omvang. Tot die tijd
-heerste het gevoel hebben dat je alles van belang wel gelezen kon
-hebben. Bij Alt0169 zeiden we dat ook: ik heb vandaag het internet weer
-uitgelezen. Een van de mensen die dat ook schenen te doen was Jorn
-Barger van robotwisdom.org. Jorn Barger was een curieuze figuur. Een
-beetje malle, gestudeerde gast met een woeste baard. Hij deed volgens
-mij weinig meer dan websurfen op zijn antieke PC en hield daar een
-logboek van bij, een weblog. Wat mij aan dat logboek fascineerde was dat
-ik na verloop van tijd het gevoel kreeg dat ik Barger daadwerkelijk
-kende, ondanks het feit dat hij zich (in zijn weblog) beperkte tot het
-posten van linkjes. In zijn selectie tekende zich een persoonlijkheid
-af.
-
-Ik stuurde toentertijd in de signature van mijn mailtjes vaak een link
-naar een interessante website of -pagina mee. Ik zag dat Robotwisdom
-zo'n soort linkdump was en ik wilde iets met PHP gaan doen. Wat ik toen
-deed was met Robotwisdom als voorbeeld mijn eigen site maken. Zo is
-Morewherethat (MWT) ontstaan, ik wilde mijn eigen plek om links op te
-plaatsen. Maar MWT kreeg daarnaast een afdeling met noeste
-handgeschreven artikelen, over dingen die me persoonlijk bezig hielden.
-Die namen veelal de vorm aan van recensies. Daarin leek het al veel meer
-op de blogs zoals we die nu kennen.
-
-Al snel na de start van MWT heb ik Frank Hartgers en Michiel Leenaars
-gevraagd om mee te schrijven. Zij waren studievrienden met wie ik
-ongeveer een jaar daarvoor geprobeerd had een website over nieuwe media
-literatuur van de grond te tillen, perk.nl. Verder waren er nog wat
-gastauteurs, veelal vrienden van mij. We hadden serieuze plannen met
-Perk, dat weblog deden we er eigenlijk maar een beetje bij. Maar we
-waren en zijn nog steeds nieuwsgierige mannetjes. Multidisciplinaire
-types met een diepgaande interesse voor cultuur in de breedste zin van
-het woord. Daar horen muziek en literatuur bij, maar ook de ontwikkeling
-van de nieuwste processors en de games die ze mogelijk maken. Een weblog
-is bij uitstek een podium waarop je al deze passies kunt uitleven, de
-spreekwoordelijke zeepkist.
-
-Ik had zelf met PHP een webinterface op een MySQL database in elkaar
-geknutseld, een soort mini-CMS\'je. Dat klinkt tegenwoordig als een
-no-brainer, maar toen was dat best opmerkelijk. Jeroen en Joep deden
-Alt0169 helemaal met notepad en FTP en ze keken met enige jaloezie naar
-dat high-tech systeem van ons. Dat was een paar jaar voordat Blogger
-groot werd. Ik heb mezelf later wel eens voor de kop geslagen. Als ik
-dat systeempje van mij toen te gelde had gemaakt was ik nu binnen
-geweest. Het internet is een festival van gemiste kansen.
-
-Na een jaar zijn we weer gestopt met MWT. Het leek ons een mooie
-symbolische periode. We vonden het wat gortig worden, met een stuk of
-zeventig weblogs in Nederland. Al die zelfbevlekkerij! We hebben
-geprobeerd het goede voorbeeld te geven door er een punt achter te
-zetten. Het heeft niet geholpen.
-
-Het zou een interessante ervaring geweest zijn als we met MWT één van de
-eerste grote blogs waren. In die tijd waren blogs een randverschijnsel
-waarop door de professionele journalistiek werd neergekeken. Ik kan me
-een sneer herinneren van journaliste Marie-José Klaver die weblogs
-terzijde veegde als een medium voor amateurs. Daarin had ze natuurlijk
-gelijk, maar ze miste het belangrijkste punt. Een weblog (of een website
-in het algemeen) stelt je in staat om als individu je stem te verheffen
-in het publieke debat, en wel op een schaal die voorheen onmogelijk was.
-Tot de komst van het internet was je als niet-professioneel schrijver
-aangewezen op de ingezonden brieven rubrieken. Wilde je serieus aan de
-slag dan moest je toetreden tot een redactie of zelf een tijdschrift
-oprichten, met alle kop- en geldzorgen van dien. Het weblogfenomeen
-heeft dat voorgoed veranderd.
-
-Ik kan me voorstellen dat MWT had kunnen profiteren van die
-cultuuromslag. Natuurlijk hadden we dan professioneler moeten worden,
-met een diepere site, een betere vormgeving en een solide redactie.
-Anderzijds realiseer ik me dat MWT totaal geen inhoudelijke lijn
-vertoonde. Het was een allegaartje van dingen die we leuk vonden. Dat
-soort blogs wordt zelden echt groot. De meest succesvolle blogs beperken
-zich toch vaak tot één onderwerp: internet, politiek, koken,
-modelbouwtreintjes. Had MWT een serieuze stem in een of ander
-maatschappelijke debat willen hebben, dan hadden we ons moeten
-toespitsen op een enkel onderwerp en daarmee hadden we het karakter van
-de site veranderd. Ik weet niet of het dan nog wel zo leuk geweest was.
-Dan zou het meer als een baan aanvoelen.
-
-De bomen rezen tot de hemel aan het begin van de 21^e^ eeuw. Niets was
-te gek, internet was het beloofde land en iedereen met een vaag
-businessplan op een viltje kon zo zakken geld ophalen om zijn online
-winkel of dienstverlening tot een succes te maken. We weten intussen dat
-het allemaal anders is gelopen. De Dotcom hype ligt al lang achter ons,
-de slachtoffers van toen zijn weer opgekrabbeld en met wat meer
-realiteitszin weer verder gegaan. Het Nederlandse vlaggenschip van deze
-periode was Newconomy, het investeringsbedrijf van o.a. Maurice de Hond
-en Roel Pieper. Zij wilden alleen in Nederlandse bedrijven investeren om
-zo het hoofd te bieden aan de verwachte invasie van Amerikaanse
-bedrijven. Maar gelukkig was niet iedereen in een jubelstemming over
-alle nieuwe mogelijkheden die het web ons bracht. De bloggers van het
-eerste uur, veelal zelf werkzaam in de internetindustrie, waren
-sceptisch over alle wilde plannen, ronkende persberichten en de twee
-omhooggestoken duimen van World Online's Nina Brink. Alt0169 was de
-voorloper in het sceptisme. Jeroen Bosch: "Ralph Oei en ik deden lustig
-mee tijdens een open chat van Newconomy. Wij vroegen ze het hemd van het
-lijf met door ons verzonnen begrippen en kregen daar duidelijk antwoord
-op dat ze daar zeker mee bezig waren. Fan Based Marketing kan ik me nog
-herinneren, was een van de gebruikte begrippen."
-
-De mannen van Alt0169 lieten het echter niet bij één chatsessie. Al snel
-verschenen Fewconomy.nl (We Rule Openhaardcore) en Worldoffline.nl, twee
-parodiesites op de iconen van de nieuwe Nederlande netwerkeconomie. Het
-doel van Fewconomy? "het internet op te kopen en te sluiten." Niets meer
-en niets minder.
-
-Op 25 januari 2001 zou Fewconomy te koop staan op eBay[^25]. De reden is
-wederom logisch: "Om het internet op te kopen en te sluiten is geld
-nodig, veel geld. Om de financiële positie van Fewconomy te versterken,
-is er voor gekozen om fewconomy.com zelf als eerste exit te laten gaan.
-Met de verwachte revenuen zullen Yahoo! en Geocities worden opgekocht en
-gesloten."
-
-Diverse bloggers bieden hevig op de dan waardeloze onderneming maar de
-domeinnaam gaat uiteindelijk naar Jan de Vries. De vraag blijft echter
-bestaan, is het wel de echte Jan de Vries? Deze naam staat bekend in de
-begindagen van het web als een veelgebruikt pseudoniem door de redactie
-en lezers van Alt0169 in reactiepanelen, om anoniem startpagina's aan te
-kunnen maken en in te loggen op gekraakte CMS'en.
-
-De Fewconomy avonturen zijn tekenend voor de wilde groep kunstenaars die
-Alt0169 dagelijks vullen met links over het hele web. Maar
-tegelijkertijd mijden ze het landelijke nieuws niet. Jeroen en kornuiten
-zien dat het web groeit, dat de kinderjaren voorbij zijn en dat "het
-grote publiek" zich online laat zien. Dat publiek kwam vooral online via
-een van de eerste commerciële internetproviders in Nederland, Planet
-Internet.
 
 ## Het kladblok is geopend
 
@@ -1532,32 +1532,33 @@ en hoe de invloed zich heeft uitgespreid.
 De volgende namen kunnen worden gezien als de grondleggers van het
 webloggen in Nederland
 
-  **Naam**                **Startdatum**      **Einddatum**
-  ----------------------- ------------------- ----------------------
-  e-Wave                  Oktober 1994        Augustus 1996
-  Daily Planet            1 mei 1995          11 september 1998
-  Het Dagelijkse Nieuws   6 mei 1997          19 mei 1999
-  Prolific                21 Juni 1998        Nog online
-  Smoel.nl                Juli 1998           April 2006
-  Pjoe.net                31 maart 1999       Onbekend
-  Sikkema.net             6 juli 1999         7 januari 2004
-  Morewherethat           24 Juli 1999        24 juli 2000
-  Alt0169                 16 augustus 1999    1 augustus 2001
-  Joglog                  21 september 1999   21 maart 2000[^33]
-  Tonie.net               1 Oktober 1999      1 januari 2003
-  :)=Esc                  16 Oktober 1999     1 januari 2008
-  MisterEdBlog            1 november 1999     30 april 2002[^34]
-  VanTienen.com           1 november 1999     Juni 2004
-  Weblogger.nl            7 november 1999     9 september 2003
-  ISDIB                   8 november 1999     5 november 2003[^35]
-  Hagenaars.net           12 november 1999    September 2003
-  Linked                  18 november 1999    18 februari 2000
-  TheWolf[^36]            26 november         December 2004
-  Stronk                  2 december 1999     Mei 2001
-  Cyberramon              December 1999       Mei 2001
-  L-rs.org                9 januari 2000      Nog online
-  Zo.nu/&dan              7 februari 2000     5 oktober 2000
-  Planeet Eendvogel       12 februari 2000    11 mei 2002
+| **Startdatum**        | **Naam**          | **Einddatum**        |
+|-----------------------|-------------------|----------------------|
+| e-Wave                | Oktober 1994      | Augustus 1996        |
+|                       |                   |                      |
+| Daily Planet          | 1 mei 1995        | 11 september 1998    |
+| Het Dagelijkse Nieuws | 6 mei 1997        | 19 mei 1999          |
+| Prolific              | 21 Juni 1998      | Nog online           |
+| Smoel.nl              | Juli 1998         | April 2006           |
+| Pjoe.net              | 31 maart 1999     | Onbekend             |
+| Sikkema.net           | 6 juli 1999       | 7 januari 2004       |
+| Morewherethat         | 24 Juli 1999      | 24 juli 2000         |
+| Alt0169               | 16 augustus 1999  | 1 augustus 2001      |
+| Joglog                | 21 september 1999 | 21 maart 2000[^33]   |
+| Tonie.net             | 1 Oktober 1999    | 1 januari 2003       |
+| :)=Esc                | 16 Oktober 1999   | 1 januari 2008       |
+| MisterEdBlog          | 1 november 1999   | 30 april 2002[^34]   |
+| VanTienen.com         | 1 november 1999   | Juni 2004            |
+| Weblogger.nl          | 7 november 1999   | 9 september 2003     |
+| ISDIB                 | 8 november 1999   | 5 november 2003[^35] |
+| Hagenaars.net         | 12 november 1999  | September 2003       |
+| Linked                | 18 november 1999  | 18 februari 2000     |
+| TheWolf[^36]          | 26 november       | December 2004        |
+| Stronk                | 2 december 1999   | Mei 2001             |
+| Cyberramon            | December 1999     | Mei 2001             |
+| L-rs.org              | 9 januari 2000    | Nog online           |
+| Zo.nu/&dan            | 7 februari 2000   | 5 oktober 2000       |
+| Planeet Eendvogel     | 12 februari 2000  | 11 mei 2002          |
 
 Waar laat ons deze opsomming? We weten dat zowel de e-Wave als de Daily
 Planet hun invloed hebben op de bloggers van de eerste periode. Maar de
